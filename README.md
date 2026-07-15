@@ -46,7 +46,7 @@ While not a hard requirement, it is recommended to use one of the **official** M
 ## Description
 
 _"What are KMS keys?"_
-> Essentially, Key Management System (KMS) client keys are static enterprise keys designed to handle large-scale activation within an organization.  They generally rely on a local KMS activation server, allowing organizations to activate multiple clients on their network via volume licensing, rather than each individual client connecting to Microsoft for activiation.
+> Essentially, Key Management System (KMS) client keys are static enterprise keys designed to handle large-scale activation within an organization.  They generally rely oN a local KMS activation server, allowing organizations to activate multiple clients on their network via volume licensing, rather than each individual client connecting to Microsoft for activiation.
 >
 > In contrast, consumer keys (such as retail or OEM) are essentially dynamic, one-time-use keys intended for small-scale, individual user activation.  These are what you usually use when you activate your product.
 
